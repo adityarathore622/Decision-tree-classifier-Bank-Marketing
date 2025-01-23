@@ -67,7 +67,6 @@ This task sharpened my skills in data cleaning, visualization, and deriving acti
 
 - Data Science
 - Internship
-- Prodigy InfoTech
 - Data Cleaning
 - Data Analysis
 - Decision Tree Classifier
